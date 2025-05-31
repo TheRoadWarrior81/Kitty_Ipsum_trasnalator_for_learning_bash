@@ -36,3 +36,8 @@ grep 'meoe' kitty_ipsum_1.txt
 grep 'meow' kitty_ipsum_1.txt
 man grep
 grep --color 'meow' kitty_ipsum_1.txt
+mna grep
+man grep
+grep -n 'meoe' kitty_ipsum_1.txt
+grep -n 'meow' kitty_ipsum_1.txt
+grep --color -n 'meow' kitty_ipsum_1.txt
