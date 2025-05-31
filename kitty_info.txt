@@ -39,3 +39,8 @@ Lines that they appear on:
 
 Number of lines:
 28
+
+
+Number of words:
+
+Number of words:
